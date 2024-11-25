@@ -17,7 +17,6 @@ Mental health is a critical aspect of overall well-being, and understanding the 
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Data](#data)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
 - [Acknowledgements](#acknowledgements)
@@ -55,9 +54,6 @@ The project utilizes a dataset containing textual data, with labels indicating t
    - Alternative models or preprocessing techniques.
 4. Export or save results for further analysis or reporting.
 
-To use Google Colab, click the badge below to open the notebook directly:
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/Mental_Health_Sentiment_Analysis/blob/main/Mental_Health_Sentiment_Analysis.ipynb)
 
 ---
 
